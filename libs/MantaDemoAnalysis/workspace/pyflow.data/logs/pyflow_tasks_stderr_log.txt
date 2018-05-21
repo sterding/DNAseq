@@ -1,0 +1,77 @@
+[2018-05-15T14:57:04.043125Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_makeTmpDir] Task: 'getAlignmentStats_makeTmpDir' exit code: '0'
+[2018-05-15T14:57:04.047613Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_makeTmpDir] Task: 'getAlignmentStats_makeTmpDir' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:04.463582Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] WARNING: read pair statistics did not converge for read group '' in bam file '/PHShome/xd010/share/demo/manta/data/HCC1954.NORMAL.30x.compare.COST16011_region.bam
+[2018-05-15T14:57:04.465190Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] 	Total high-confidence read pairs (FR) used for insert size estimation: 363
+[2018-05-15T14:57:04.465813Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] 	Total sampled reads: 1179
+[2018-05-15T14:57:04.466575Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] 	Total sampled paired reads: 1179
+[2018-05-15T14:57:04.467216Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] 	Total sampled paired reads passing MAPQ filter: 1159
+[2018-05-15T14:57:04.467758Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] 	Total sampled high-confidence read pairs passing all filters: 363
+[2018-05-15T14:57:04.468436Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_000] 
+[2018-05-15T14:57:04.469985Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_000] Task: 'getAlignmentStats_generateStats_000' exit code: '0'
+[2018-05-15T14:57:04.471245Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_000] Task: 'getAlignmentStats_generateStats_000' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:04.686218Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] WARNING: read pair statistics did not converge for read group '' in bam file '/PHShome/xd010/share/demo/manta/data/G15512.HCC1954.1.COST16011_region.bam
+[2018-05-15T14:57:04.692853Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] 	Total high-confidence read pairs (FR) used for insert size estimation: 1673
+[2018-05-15T14:57:04.693409Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] 	Total sampled reads: 11194
+[2018-05-15T14:57:04.693900Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] 	Total sampled paired reads: 11194
+[2018-05-15T14:57:04.694480Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] 	Total sampled paired reads passing MAPQ filter: 10999
+[2018-05-15T14:57:04.694996Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] 	Total sampled high-confidence read pairs passing all filters: 1682
+[2018-05-15T14:57:04.695534Z] [eris1n2.research.partners.org] [50334_1] [getAlignmentStats_generateStats_001] 
+[2018-05-15T14:57:04.701682Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_001] Task: 'getAlignmentStats_generateStats_001' exit code: '0'
+[2018-05-15T14:57:04.702777Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_001] Task: 'getAlignmentStats_generateStats_001' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:04.947945Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_mergeStats] Task: 'getAlignmentStats_mergeStats' exit code: '0'
+[2018-05-15T14:57:04.949833Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_mergeStats] Task: 'getAlignmentStats_mergeStats' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:05.130174Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:summarizeStats] Task: 'summarizeStats' exit code: '0'
+[2018-05-15T14:57:05.132023Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:summarizeStats] Task: 'summarizeStats' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:05.268046Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeGraphTmpDir] Task: 'makeGraphTmpDir' exit code: '0'
+[2018-05-15T14:57:05.270073Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeGraphTmpDir] Task: 'makeGraphTmpDir' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:05.563759Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] Task: 'makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000' exit code: '0'
+[2018-05-15T14:57:05.565889Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] Task: 'makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:05.741945Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_removeTmpDir] Task: 'getAlignmentStats_removeTmpDir' exit code: '0'
+[2018-05-15T14:57:05.745463Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_removeTmpDir] Task: 'getAlignmentStats_removeTmpDir' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:05.956174Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeLocusGraph] Task: 'mergeLocusGraph' exit code: '0'
+[2018-05-15T14:57:05.957769Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeLocusGraph] Task: 'mergeLocusGraph' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:06.097726Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:removeTmpDir] Task: 'removeTmpDir' exit code: '0'
+[2018-05-15T14:57:06.099835Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:removeTmpDir] Task: 'removeTmpDir' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:06.365071Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:checkLocusGraph] Task: 'checkLocusGraph' exit code: '0'
+[2018-05-15T14:57:06.367581Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:checkLocusGraph] Task: 'checkLocusGraph' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:06.479423Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeHyGenDir] Task: 'makeHyGenDir' exit code: '0'
+[2018-05-15T14:57:06.482551Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeHyGenDir] Task: 'makeHyGenDir' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:06.841497Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0003] Task: 'generateCandidateSV_0003' exit code: '0'
+[2018-05-15T14:57:06.844207Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0003] Task: 'generateCandidateSV_0003' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:07.093442Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0002] Task: 'generateCandidateSV_0002' exit code: '0'
+[2018-05-15T14:57:07.095694Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0002] Task: 'generateCandidateSV_0002' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:07.505372Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0000] Task: 'generateCandidateSV_0000' exit code: '0'
+[2018-05-15T14:57:07.507419Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0000] Task: 'generateCandidateSV_0000' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:07.835444Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0001] Task: 'generateCandidateSV_0001' exit code: '0'
+[2018-05-15T14:57:07.838162Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0001] Task: 'generateCandidateSV_0001' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:08.106339Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortSomaticSV] Task: 'fixVcfHeader_sortSomaticSV' exit code: '0'
+[2018-05-15T14:57:08.108723Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortSomaticSV] Task: 'fixVcfHeader_sortSomaticSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:08.289182Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:locusGraphStats] Task: 'locusGraphStats' exit code: '0'
+[2018-05-15T14:57:08.291865Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:locusGraphStats] Task: 'locusGraphStats' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:08.477450Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortDiploidSV] Task: 'fixVcfHeader_sortDiploidSV' exit code: '0'
+[2018-05-15T14:57:08.479584Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortDiploidSV] Task: 'fixVcfHeader_sortDiploidSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:08.673124Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sort_sortSomaticSV] Task: 'sort_sortSomaticSV' exit code: '0'
+[2018-05-15T14:57:08.675282Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sort_sortSomaticSV] Task: 'sort_sortSomaticSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:08.806581Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortSomaticSV] Task: 'tabix_sortSomaticSV' exit code: '0'
+[2018-05-15T14:57:08.808487Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortSomaticSV] Task: 'tabix_sortSomaticSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.005550Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortCandidateSV] Task: 'fixVcfHeader_sortCandidateSV' exit code: '0'
+[2018-05-15T14:57:09.008048Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortCandidateSV] Task: 'fixVcfHeader_sortCandidateSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.199238Z] [eris1n2.research.partners.org] [50334_1] [sort_sortDiploidSV] Processed 0 sites in the vcf.
+[2018-05-15T14:57:09.201660Z] [eris1n2.research.partners.org] [50334_1] [sort_sortDiploidSV] Filtered 0 sites due to ploidy.
+[2018-05-15T14:57:09.202359Z] [eris1n2.research.partners.org] [50334_1] [sort_sortDiploidSV] Filtered sites: {}
+[2018-05-15T14:57:09.214601Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sort_sortDiploidSV] Task: 'sort_sortDiploidSV' exit code: '0'
+[2018-05-15T14:57:09.215768Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sort_sortDiploidSV] Task: 'sort_sortDiploidSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.415248Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sort_sortCandidateSV] Task: 'sort_sortCandidateSV' exit code: '0'
+[2018-05-15T14:57:09.417182Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sort_sortCandidateSV] Task: 'sort_sortCandidateSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.571772Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels] Task: 'extractSmallIndels' exit code: '0'
+[2018-05-15T14:57:09.573942Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels] Task: 'extractSmallIndels' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.685654Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortCandidateSV] Task: 'tabix_sortCandidateSV' exit code: '0'
+[2018-05-15T14:57:09.688132Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortCandidateSV] Task: 'tabix_sortCandidateSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.808629Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortDiploidSV] Task: 'tabix_sortDiploidSV' exit code: '0'
+[2018-05-15T14:57:09.810694Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortDiploidSV] Task: 'tabix_sortDiploidSV' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:09.913154Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels_tabix] Task: 'extractSmallIndels_tabix' exit code: '0'
+[2018-05-15T14:57:09.916009Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels_tabix] Task: 'extractSmallIndels_tabix' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:10.073708Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] Task: 'sortEdgeRuntimeLogs' exit code: '0'
+[2018-05-15T14:57:10.076780Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] Task: 'sortEdgeRuntimeLogs' complete. elapsedSec: 0 elapsedCoreSec: 0
+[2018-05-15T14:57:10.391411Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeEdgeStats] Task: 'mergeEdgeStats' exit code: '0'
+[2018-05-15T14:57:10.393580Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeEdgeStats] Task: 'mergeEdgeStats' complete. elapsedSec: 0 elapsedCoreSec: 0

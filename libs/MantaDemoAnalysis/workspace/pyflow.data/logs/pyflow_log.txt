@@ -1,0 +1,173 @@
+[2018-05-15T14:57:03.829559Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Initiating pyFlow run
+[2018-05-15T14:57:03.831091Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] pyFlowClientWorkflowClass: MantaWorkflow
+[2018-05-15T14:57:03.831665Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] pyFlowVersion: 1.1.20
+[2018-05-15T14:57:03.832204Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] pythonVersion: 2.7.3.final.0
+[2018-05-15T14:57:03.833058Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] WorkingDir: '/data/neurogen/pipeline/DNAseq/libs'
+[2018-05-15T14:57:03.833772Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] ProcessCmdLine: 'MantaDemoAnalysis/runWorkflow.py -m local -j 1 -g 4'
+[2018-05-15T14:57:03.834408Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] mode: local
+[2018-05-15T14:57:03.835271Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] nCores: 1
+[2018-05-15T14:57:03.836225Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] memMb: 4096
+[2018-05-15T14:57:03.837009Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] dataDir: /data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/pyflow.data
+[2018-05-15T14:57:03.837759Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] isDryRun: False
+[2018-05-15T14:57:03.838279Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] isContinue: False
+[2018-05-15T14:57:03.839013Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] isForceContinue: True
+[2018-05-15T14:57:03.839551Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] [RunParameters] mailTo: ''
+[2018-05-15T14:57:03.840546Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:masterWorkflow] Starting task specification for master workflow
+[2018-05-15T14:57:03.841342Z] [eris1n2.research.partners.org] [50334_1] [MantaWorkflow] Initiating Manta workflow version: 1.4.0
+[2018-05-15T14:57:03.842384Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'getAlignmentStats_makeTmpDir' to master workflow
+[2018-05-15T14:57:03.843490Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'getAlignmentStats_generateStats_000' to master workflow
+[2018-05-15T14:57:03.844494Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'getAlignmentStats_generateStats_001' to master workflow
+[2018-05-15T14:57:03.845537Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'getAlignmentStats_makeTmpDir' from master workflow
+[2018-05-15T14:57:03.846098Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'getAlignmentStats_mergeStats' to master workflow
+[2018-05-15T14:57:03.847634Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'getAlignmentStats_removeTmpDir' to master workflow
+[2018-05-15T14:57:03.848865Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'summarizeStats' to master workflow
+[2018-05-15T14:57:03.849777Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'makeGraphTmpDir' to master workflow
+[2018-05-15T14:57:03.851231Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000' to master workflow
+[2018-05-15T14:57:03.852740Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding sub-workflow task 'mergeLocusGraphInputList' to master workflow
+[2018-05-15T14:57:03.853592Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'mergeLocusGraph' to master workflow
+[2018-05-15T14:57:03.854399Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'checkLocusGraph' to master workflow
+[2018-05-15T14:57:03.855204Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'removeTmpDir' to master workflow
+[2018-05-15T14:57:03.856416Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'locusGraphStats' to master workflow
+[2018-05-15T14:57:03.857170Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'makeHyGenDir' to master workflow
+[2018-05-15T14:57:03.858521Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'generateCandidateSV_0000' to master workflow
+[2018-05-15T14:57:03.859316Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'generateCandidateSV_0001' to master workflow
+[2018-05-15T14:57:03.860140Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'generateCandidateSV_0002' to master workflow
+[2018-05-15T14:57:03.861379Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'generateCandidateSV_0003' to master workflow
+[2018-05-15T14:57:03.862210Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'fixVcfHeader_sortCandidateSV' to master workflow
+[2018-05-15T14:57:03.863566Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding sub-workflow task 'sortCandidateSVInputList' to master workflow
+[2018-05-15T14:57:03.864247Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'sort_sortCandidateSV' to master workflow
+[2018-05-15T14:57:03.864986Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'tabix_sortCandidateSV' to master workflow
+[2018-05-15T14:57:03.866322Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'fixVcfHeader_sortDiploidSV' to master workflow
+[2018-05-15T14:57:03.868607Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding sub-workflow task 'sortDiploidSVInputList' to master workflow
+[2018-05-15T14:57:03.869794Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'sort_sortDiploidSV' to master workflow
+[2018-05-15T14:57:03.870927Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'tabix_sortDiploidSV' to master workflow
+[2018-05-15T14:57:03.872364Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'fixVcfHeader_sortSomaticSV' to master workflow
+[2018-05-15T14:57:03.874123Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding sub-workflow task 'sortSomaticSVInputList' to master workflow
+[2018-05-15T14:57:03.875046Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'sort_sortSomaticSV' to master workflow
+[2018-05-15T14:57:03.877135Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'tabix_sortSomaticSV' to master workflow
+[2018-05-15T14:57:03.878643Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'extractSmallIndels' to master workflow
+[2018-05-15T14:57:03.881551Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'extractSmallIndels_tabix' to master workflow
+[2018-05-15T14:57:03.882398Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:getAlignmentStats_makeTmpDir] Task initiated on local node
+[2018-05-15T14:57:03.883582Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding sub-workflow task 'sortEdgeRuntimeLogsInputList' to master workflow
+[2018-05-15T14:57:03.884596Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'sortEdgeRuntimeLogs' to master workflow
+[2018-05-15T14:57:03.886316Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding sub-workflow task 'mergeEdgeStatsInputList' to master workflow
+[2018-05-15T14:57:03.887144Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Adding command task 'mergeEdgeStats' to master workflow
+[2018-05-15T14:57:03.888729Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:masterWorkflow] Finished task specification for master workflow
+[2018-05-15T14:57:04.103340Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'getAlignmentStats_makeTmpDir' launched from master workflow
+[2018-05-15T14:57:04.104951Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'getAlignmentStats_generateStats_000' from master workflow
+[2018-05-15T14:57:04.118061Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:getAlignmentStats_generateStats_000] Task initiated on local node
+[2018-05-15T14:57:04.521943Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'getAlignmentStats_generateStats_000' launched from master workflow
+[2018-05-15T14:57:04.524001Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'getAlignmentStats_generateStats_001' from master workflow
+[2018-05-15T14:57:04.538489Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:getAlignmentStats_generateStats_001] Task initiated on local node
+[2018-05-15T14:57:04.739477Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'getAlignmentStats_generateStats_001' launched from master workflow
+[2018-05-15T14:57:04.741219Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'getAlignmentStats_mergeStats' from master workflow
+[2018-05-15T14:57:04.757497Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:getAlignmentStats_mergeStats] Task initiated on local node
+[2018-05-15T14:57:04.956458Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'getAlignmentStats_mergeStats' launched from master workflow
+[2018-05-15T14:57:04.957971Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'summarizeStats' from master workflow
+[2018-05-15T14:57:04.979021Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:summarizeStats] Task initiated on local node
+[2018-05-15T14:57:05.173572Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'summarizeStats' launched from master workflow
+[2018-05-15T14:57:05.175209Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'makeGraphTmpDir' from master workflow
+[2018-05-15T14:57:05.190732Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:makeGraphTmpDir] Task initiated on local node
+[2018-05-15T14:57:05.291106Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'makeGraphTmpDir' launched from master workflow
+[2018-05-15T14:57:05.292902Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000' from master workflow
+[2018-05-15T14:57:05.311537Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] Task initiated on local node
+[2018-05-15T14:57:05.609006Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000' launched from master workflow
+[2018-05-15T14:57:05.611562Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching sub-workflow task: 'mergeLocusGraphInputList' from master workflow
+[2018-05-15T14:57:05.612520Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:mergeLocusGraphInputList] Starting task specification for sub-workflow
+[2018-05-15T14:57:05.613473Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'getAlignmentStats_removeTmpDir' from master workflow
+[2018-05-15T14:57:05.618392Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:mergeLocusGraphInputList] Finished task specification for sub-workflow
+[2018-05-15T14:57:05.621679Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed sub-workflow task: 'mergeLocusGraphInputList' launched from master workflow
+[2018-05-15T14:57:05.627976Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:getAlignmentStats_removeTmpDir] Task initiated on local node
+[2018-05-15T14:57:05.787617Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'getAlignmentStats_removeTmpDir' launched from master workflow
+[2018-05-15T14:57:05.790475Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'mergeLocusGraph' from master workflow
+[2018-05-15T14:57:05.804900Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:mergeLocusGraph] Task initiated on local node
+[2018-05-15T14:57:06.006199Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'mergeLocusGraph' launched from master workflow
+[2018-05-15T14:57:06.007612Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'removeTmpDir' from master workflow
+[2018-05-15T14:57:06.022647Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:removeTmpDir] Task initiated on local node
+[2018-05-15T14:57:06.122772Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'removeTmpDir' launched from master workflow
+[2018-05-15T14:57:06.124491Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'checkLocusGraph' from master workflow
+[2018-05-15T14:57:06.139467Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:checkLocusGraph] Task initiated on local node
+[2018-05-15T14:57:06.390762Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'checkLocusGraph' launched from master workflow
+[2018-05-15T14:57:06.392271Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'makeHyGenDir' from master workflow
+[2018-05-15T14:57:06.406068Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:makeHyGenDir] Task initiated on local node
+[2018-05-15T14:57:06.507895Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'makeHyGenDir' launched from master workflow
+[2018-05-15T14:57:06.510429Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'generateCandidateSV_0003' from master workflow
+[2018-05-15T14:57:06.525418Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:generateCandidateSV_0003] Task initiated on local node
+[2018-05-15T14:57:06.876860Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'generateCandidateSV_0003' launched from master workflow
+[2018-05-15T14:57:06.878695Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'generateCandidateSV_0002' from master workflow
+[2018-05-15T14:57:06.893797Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:generateCandidateSV_0002] Task initiated on local node
+[2018-05-15T14:57:07.145764Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'generateCandidateSV_0002' launched from master workflow
+[2018-05-15T14:57:07.147348Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'generateCandidateSV_0000' from master workflow
+[2018-05-15T14:57:07.161126Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:generateCandidateSV_0000] Task initiated on local node
+[2018-05-15T14:57:07.514858Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'generateCandidateSV_0000' launched from master workflow
+[2018-05-15T14:57:07.516359Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'generateCandidateSV_0001' from master workflow
+[2018-05-15T14:57:07.533702Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:generateCandidateSV_0001] Task initiated on local node
+[2018-05-15T14:57:07.882965Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'generateCandidateSV_0001' launched from master workflow
+[2018-05-15T14:57:07.884907Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching sub-workflow task: 'sortEdgeRuntimeLogsInputList' from master workflow
+[2018-05-15T14:57:07.885771Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortEdgeRuntimeLogsInputList] Starting task specification for sub-workflow
+[2018-05-15T14:57:07.886945Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching sub-workflow task: 'mergeEdgeStatsInputList' from master workflow
+[2018-05-15T14:57:07.887883Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:mergeEdgeStatsInputList] Starting task specification for sub-workflow
+[2018-05-15T14:57:07.889099Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'fixVcfHeader_sortSomaticSV' from master workflow
+[2018-05-15T14:57:07.892624Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortEdgeRuntimeLogsInputList] Finished task specification for sub-workflow
+[2018-05-15T14:57:07.894698Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:mergeEdgeStatsInputList] Finished task specification for sub-workflow
+[2018-05-15T14:57:07.898046Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed sub-workflow task: 'sortEdgeRuntimeLogsInputList' launched from master workflow
+[2018-05-15T14:57:07.898996Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed sub-workflow task: 'mergeEdgeStatsInputList' launched from master workflow
+[2018-05-15T14:57:07.906377Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:fixVcfHeader_sortSomaticSV] Task initiated on local node
+[2018-05-15T14:57:08.116481Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'fixVcfHeader_sortSomaticSV' launched from master workflow
+[2018-05-15T14:57:08.117803Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching sub-workflow task: 'sortSomaticSVInputList' from master workflow
+[2018-05-15T14:57:08.118562Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortSomaticSVInputList] Starting task specification for sub-workflow
+[2018-05-15T14:57:08.119523Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'locusGraphStats' from master workflow
+[2018-05-15T14:57:08.124782Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortSomaticSVInputList] Finished task specification for sub-workflow
+[2018-05-15T14:57:08.127622Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed sub-workflow task: 'sortSomaticSVInputList' launched from master workflow
+[2018-05-15T14:57:08.135084Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:locusGraphStats] Task initiated on local node
+[2018-05-15T14:57:08.343673Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'locusGraphStats' launched from master workflow
+[2018-05-15T14:57:08.345214Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'fixVcfHeader_sortDiploidSV' from master workflow
+[2018-05-15T14:57:08.360492Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:fixVcfHeader_sortDiploidSV] Task initiated on local node
+[2018-05-15T14:57:08.510884Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'fixVcfHeader_sortDiploidSV' launched from master workflow
+[2018-05-15T14:57:08.513268Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching sub-workflow task: 'sortDiploidSVInputList' from master workflow
+[2018-05-15T14:57:08.514168Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortDiploidSVInputList] Starting task specification for sub-workflow
+[2018-05-15T14:57:08.514961Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'sort_sortSomaticSV' from master workflow
+[2018-05-15T14:57:08.521253Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortDiploidSVInputList] Finished task specification for sub-workflow
+[2018-05-15T14:57:08.523064Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed sub-workflow task: 'sortDiploidSVInputList' launched from master workflow
+[2018-05-15T14:57:08.528287Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sort_sortSomaticSV] Task initiated on local node
+[2018-05-15T14:57:08.689165Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'sort_sortSomaticSV' launched from master workflow
+[2018-05-15T14:57:08.690510Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'tabix_sortSomaticSV' from master workflow
+[2018-05-15T14:57:08.706893Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:tabix_sortSomaticSV] Task initiated on local node
+[2018-05-15T14:57:08.868734Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'tabix_sortSomaticSV' launched from master workflow
+[2018-05-15T14:57:08.869886Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'fixVcfHeader_sortCandidateSV' from master workflow
+[2018-05-15T14:57:08.888835Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:fixVcfHeader_sortCandidateSV] Task initiated on local node
+[2018-05-15T14:57:09.035678Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'fixVcfHeader_sortCandidateSV' launched from master workflow
+[2018-05-15T14:57:09.037060Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching sub-workflow task: 'sortCandidateSVInputList' from master workflow
+[2018-05-15T14:57:09.038204Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortCandidateSVInputList] Starting task specification for sub-workflow
+[2018-05-15T14:57:09.039348Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'sort_sortDiploidSV' from master workflow
+[2018-05-15T14:57:09.046600Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortCandidateSVInputList] Finished task specification for sub-workflow
+[2018-05-15T14:57:09.047754Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed sub-workflow task: 'sortCandidateSVInputList' launched from master workflow
+[2018-05-15T14:57:09.052521Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sort_sortDiploidSV] Task initiated on local node
+[2018-05-15T14:57:09.263694Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'sort_sortDiploidSV' launched from master workflow
+[2018-05-15T14:57:09.264873Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'sort_sortCandidateSV' from master workflow
+[2018-05-15T14:57:09.278669Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sort_sortCandidateSV] Task initiated on local node
+[2018-05-15T14:57:09.430137Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'sort_sortCandidateSV' launched from master workflow
+[2018-05-15T14:57:09.431457Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'extractSmallIndels' from master workflow
+[2018-05-15T14:57:09.445189Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:extractSmallIndels] Task initiated on local node
+[2018-05-15T14:57:09.596780Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'extractSmallIndels' launched from master workflow
+[2018-05-15T14:57:09.597956Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'tabix_sortCandidateSV' from master workflow
+[2018-05-15T14:57:09.611186Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:tabix_sortCandidateSV] Task initiated on local node
+[2018-05-15T14:57:09.713172Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'tabix_sortCandidateSV' launched from master workflow
+[2018-05-15T14:57:09.714340Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'tabix_sortDiploidSV' from master workflow
+[2018-05-15T14:57:09.730430Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:tabix_sortDiploidSV] Task initiated on local node
+[2018-05-15T14:57:09.830245Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'tabix_sortDiploidSV' launched from master workflow
+[2018-05-15T14:57:09.831441Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'extractSmallIndels_tabix' from master workflow
+[2018-05-15T14:57:09.844717Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:extractSmallIndels_tabix] Task initiated on local node
+[2018-05-15T14:57:09.946657Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'extractSmallIndels_tabix' launched from master workflow
+[2018-05-15T14:57:09.947981Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'sortEdgeRuntimeLogs' from master workflow
+[2018-05-15T14:57:09.960561Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:sortEdgeRuntimeLogs] Task initiated on local node
+[2018-05-15T14:57:10.113843Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'sortEdgeRuntimeLogs' launched from master workflow
+[2018-05-15T14:57:10.115210Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Launching command task: 'mergeEdgeStats' from master workflow
+[2018-05-15T14:57:10.134111Z] [eris1n2.research.partners.org] [50334_1] [TaskRunner:mergeEdgeStats] Task initiated on local node
+[2018-05-15T14:57:10.432132Z] [eris1n2.research.partners.org] [50334_1] [TaskManager] Completed command task: 'mergeEdgeStats' launched from master workflow
+[2018-05-15T14:57:14.473460Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Manta workflow successfully completed.
+[2018-05-15T14:57:14.473460Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] 
+[2018-05-15T14:57:14.473460Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] 	workflow version: 1.4.0
+[2018-05-15T14:57:14.474548Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] 
+[2018-05-15T14:57:14.475402Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Workflow successfully completed all tasks
+[2018-05-15T14:57:14.476069Z] [eris1n2.research.partners.org] [50334_1] [WorkflowRunner] Elapsed time for full workflow: 10 sec

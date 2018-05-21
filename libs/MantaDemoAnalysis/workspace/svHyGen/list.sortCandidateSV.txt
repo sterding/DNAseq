@@ -1,0 +1,4 @@
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/candidateSV.0000.vcf
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/candidateSV.0001.vcf
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/candidateSV.0002.vcf
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/candidateSV.0003.vcf

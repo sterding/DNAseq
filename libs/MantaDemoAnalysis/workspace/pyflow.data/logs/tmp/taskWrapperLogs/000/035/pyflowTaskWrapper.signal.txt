@@ -1,0 +1,4 @@
+[2018-05-15T14:57:10.177528Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeEdgeStats] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:10.203044Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeEdgeStats] [wrapperSignal] taskStart
+[2018-05-15T14:57:10.390687Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeEdgeStats] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:10.393087Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeEdgeStats] [wrapperSignal] taskElapsedSec 0

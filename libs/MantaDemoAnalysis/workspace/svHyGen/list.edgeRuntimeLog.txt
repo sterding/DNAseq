@@ -1,0 +1,4 @@
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeRuntimeLog.0000.txt
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeRuntimeLog.0001.txt
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeRuntimeLog.0002.txt
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeRuntimeLog.0003.txt

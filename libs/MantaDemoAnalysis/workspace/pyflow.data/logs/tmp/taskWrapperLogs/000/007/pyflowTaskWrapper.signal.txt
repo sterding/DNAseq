@@ -1,0 +1,4 @@
+[2018-05-15T14:57:05.352660Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:05.366351Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] [wrapperSignal] taskStart
+[2018-05-15T14:57:05.563030Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:05.565123Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeLocusGraph_chromId_000_8-107652000-107655000_0000_to_chromId_001_11-94974000-94989000_0000] [wrapperSignal] taskElapsedSec 0

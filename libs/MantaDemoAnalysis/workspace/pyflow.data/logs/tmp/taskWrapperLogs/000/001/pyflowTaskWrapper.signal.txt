@@ -1,0 +1,4 @@
+[2018-05-15T14:57:04.280702Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_000] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:04.302494Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_000] [wrapperSignal] taskStart
+[2018-05-15T14:57:04.469289Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_000] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:04.470658Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_generateStats_000] [wrapperSignal] taskElapsedSec 0

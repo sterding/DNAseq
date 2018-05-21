@@ -1,0 +1,4 @@
+[2018-05-15T14:57:07.961603Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortSomaticSV] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:07.994213Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortSomaticSV] [wrapperSignal] taskStart
+[2018-05-15T14:57:08.105689Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortSomaticSV] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:08.108008Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:fixVcfHeader_sortSomaticSV] [wrapperSignal] taskElapsedSec 0

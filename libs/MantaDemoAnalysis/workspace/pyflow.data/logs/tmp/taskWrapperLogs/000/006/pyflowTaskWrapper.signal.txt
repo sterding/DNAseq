@@ -1,0 +1,4 @@
+[2018-05-15T14:57:05.237450Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:05.259328Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] taskStart
+[2018-05-15T14:57:05.267348Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:05.269388Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeGraphTmpDir] [wrapperSignal] taskElapsedSec 0

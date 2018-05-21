@@ -1,0 +1,4 @@
+[2018-05-15T14:57:09.771860Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:09.798192Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] taskStart
+[2018-05-15T14:57:09.808087Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:09.810095Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortDiploidSV] [wrapperSignal] taskElapsedSec 0

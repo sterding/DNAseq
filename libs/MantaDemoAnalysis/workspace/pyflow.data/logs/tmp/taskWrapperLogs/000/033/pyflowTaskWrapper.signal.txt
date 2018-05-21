@@ -1,0 +1,4 @@
+[2018-05-15T14:57:10.002560Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:10.016775Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] taskStart
+[2018-05-15T14:57:10.072798Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:10.076086Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:sortEdgeRuntimeLogs] [wrapperSignal] taskElapsedSec 0

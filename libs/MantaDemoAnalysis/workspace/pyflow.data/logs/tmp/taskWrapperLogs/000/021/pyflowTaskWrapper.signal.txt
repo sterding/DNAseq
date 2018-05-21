@@ -1,0 +1,4 @@
+[2018-05-15T14:57:09.652366Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortCandidateSV] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:09.673748Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortCandidateSV] [wrapperSignal] taskStart
+[2018-05-15T14:57:09.684734Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortCandidateSV] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:09.687260Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortCandidateSV] [wrapperSignal] taskElapsedSec 0

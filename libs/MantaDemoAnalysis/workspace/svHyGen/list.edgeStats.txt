@@ -1,0 +1,4 @@
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeStats.0000.xml
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeStats.0001.xml
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeStats.0002.xml
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/edgeStats.0003.xml

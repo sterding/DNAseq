@@ -1,0 +1,4 @@
+[2018-05-15T14:57:09.503953Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:09.521008Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] taskStart
+[2018-05-15T14:57:09.571185Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:09.573335Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels] [wrapperSignal] taskElapsedSec 0

@@ -1,0 +1,4 @@
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/somaticSV.0000.vcf
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/somaticSV.0001.vcf
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/somaticSV.0002.vcf
+/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/somaticSV.0003.vcf

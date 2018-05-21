@@ -1,0 +1,4 @@
+[2018-05-15T14:57:05.679924Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_removeTmpDir] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:05.700978Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_removeTmpDir] [wrapperSignal] taskStart
+[2018-05-15T14:57:05.740426Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_removeTmpDir] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:05.744409Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:getAlignmentStats_removeTmpDir] [wrapperSignal] taskElapsedSec 0

@@ -1,0 +1,36 @@
+group:	/PHShome/xd010/share/demo/manta/data/HCC1954.NORMAL.30x.compare.COST16011_region.bam
+fragment length observations:	363
+fragment length quantiles:
+0.01	107
+0.05	180
+0.1	251
+0.25	333
+0.5	344
+0.75	358
+0.9	365
+0.95	369
+0.99	444
+Total sampled reads:	1179
+Total sampled paired reads:	1179
+Total sampled unpaired reads:	0
+Total sampled paired reads with low MAPQ:	20
+Total sampled high-confidence read pairs passing all filters:	363
+
+group:	/PHShome/xd010/share/demo/manta/data/G15512.HCC1954.1.COST16011_region.bam
+fragment length observations:	1673
+fragment length quantiles:
+0.01	115
+0.05	191
+0.1	255
+0.25	322
+0.5	336
+0.75	347
+0.9	355
+0.95	360
+0.99	411
+Total sampled reads:	11194
+Total sampled paired reads:	11194
+Total sampled unpaired reads:	0
+Total sampled paired reads with low MAPQ:	195
+Total sampled high-confidence read pairs passing all filters:	1682
+

@@ -1,0 +1,4 @@
+[2018-05-15T14:57:06.185149Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:06.210177Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] taskStart
+[2018-05-15T14:57:06.364152Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:06.366768Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:checkLocusGraph] [wrapperSignal] taskElapsedSec 0

@@ -1,0 +1,4 @@
+[2018-05-15T14:57:09.886558Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:09.904144Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] taskStart
+[2018-05-15T14:57:09.912374Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:09.915369Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:extractSmallIndels_tabix] [wrapperSignal] taskElapsedSec 0

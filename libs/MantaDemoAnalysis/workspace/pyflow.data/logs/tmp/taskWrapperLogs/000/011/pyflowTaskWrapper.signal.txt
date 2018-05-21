@@ -1,0 +1,4 @@
+[2018-05-15T14:57:06.068423Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:removeTmpDir] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:06.091096Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:removeTmpDir] [wrapperSignal] taskStart
+[2018-05-15T14:57:06.097091Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:removeTmpDir] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:06.099311Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:removeTmpDir] [wrapperSignal] taskElapsedSec 0

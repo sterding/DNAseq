@@ -1,0 +1,106 @@
+GraphBuildTime	0.0000h wall, 0.0000h user + 0.0000h system = 0.0000h CPU (31.62%)
+GraphMergeTime	0.0000h wall, 0.0000h user + 0.0000h system = 0.0000h CPU (0.00%)
+disjointSubgraphs	2
+nodes	4
+directedEdges	10
+selfEdges	4
+totalGraphEvidence	302
+totalCleaned	19
+highestSearchCount	9
+isMaxSearchCount	0
+highestSearchDensity	0.0208955
+isMaxSearchDensity	0
+
+[Sample0]
+Source	/PHShome/xd010/share/demo/manta/data/HCC1954.NORMAL.30x.compare.COST16011_region.bam
+MinMapqFiltered	0	0.0000
+NotFiltered	1010	1.0000
+NotFilteredAndIgnored	1002	0.9921
+NotFilteredAndAnomalousPair	5	0.0050
+NotFilteredAndAnomalousPairRemotes	1	0.0010
+NotFilteredAndSplitRead	0	0.0000
+NotFilteredAndSplitReadInAnomalousPair	0	0.0000
+NotFilteredAndSplitReadSupplementarySegments	0	N/A
+NotFilteredAndLargeIndel	0	0.0000
+NotFilteredAndSemiAligned	3	0.0030
+EvidenceType_pair	0	0.0000
+EvidenceType_local_pair	3	0.5000
+EvidenceType_cigar	0	0.0000
+EvidenceType_softclip	0	0.0000
+EvidenceType_semialign	3	0.5000
+EvidenceType_shadow	0	0.0000
+EvidenceType_split_align	0	0.0000
+EvidenceType_unknown	0	0.0000
+ClosePairs	0
+
+[Sample1]
+Source	/PHShome/xd010/share/demo/manta/data/G15512.HCC1954.1.COST16011_region.bam
+MinMapqFiltered	3	0.0003
+NotFiltered	9045	0.9997
+NotFilteredAndIgnored	8924	0.9863
+NotFilteredAndAnomalousPair	74	0.0082
+NotFilteredAndAnomalousPairRemotes	53	0.0059
+NotFilteredAndSplitRead	0	0.0000
+NotFilteredAndSplitReadInAnomalousPair	0	0.0000
+NotFilteredAndSplitReadSupplementarySegments	0	N/A
+NotFilteredAndLargeIndel	1	0.0001
+NotFilteredAndSemiAligned	46	0.0051
+EvidenceType_pair	0	0.0000
+EvidenceType_local_pair	56	0.5437
+EvidenceType_cigar	1	0.0097
+EvidenceType_softclip	0	0.0000
+EvidenceType_semialign	46	0.4466
+EvidenceType_shadow	0	0.0000
+EvidenceType_split_align	0	0.0000
+EvidenceType_unknown	0	0.0000
+ClosePairs	3
+
+NodeRegionSizequantile:
+0.25	72
+0.5	313
+0.75	440
+0.9	466
+0.95	466
+0.99	466
+NodeEdgeCount:
+0	0
+1	1
+2	0
+3	3
+4	0
+5	0
+6	0
+7	0
+8	0
+9+	0
+NodeObservationCount:
+0	0
+1	0
+2	0
+3	0
+4	0
+5	0
+6	0
+7	0
+8	0
+9	0
+10	0
+11	0
+12	0
+13	0
+14	0
+15	1
+16	0
+17	0
+18	0
+19	0
+20	0
+21	0
+22	0
+23	0
+24	0
+25	0
+26	0
+27	0
+28	0
+29+	3

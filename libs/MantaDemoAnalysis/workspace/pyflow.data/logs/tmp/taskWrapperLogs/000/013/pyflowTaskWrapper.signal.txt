@@ -1,0 +1,4 @@
+[2018-05-15T14:57:06.449943Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:06.467590Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] taskStart
+[2018-05-15T14:57:06.478240Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:06.481802Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:makeHyGenDir] [wrapperSignal] taskElapsedSec 0

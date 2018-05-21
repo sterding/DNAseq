@@ -1,0 +1,4 @@
+[2018-05-15T14:57:06.569042Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0003] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:06.592316Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0003] [wrapperSignal] taskStart
+[2018-05-15T14:57:06.840671Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0003] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:06.843470Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:generateCandidateSV_0003] [wrapperSignal] taskElapsedSec 0

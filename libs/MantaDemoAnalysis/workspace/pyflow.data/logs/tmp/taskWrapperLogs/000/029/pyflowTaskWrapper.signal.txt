@@ -1,0 +1,4 @@
+[2018-05-15T14:57:08.748909Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortSomaticSV] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:08.765278Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortSomaticSV] [wrapperSignal] taskStart
+[2018-05-15T14:57:08.805891Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortSomaticSV] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:08.807983Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:tabix_sortSomaticSV] [wrapperSignal] taskElapsedSec 0

@@ -1,0 +1,26 @@
+(dp0
+S'isShellCmd'
+p1
+I01
+sS'cmd'
+p2
+S'"/apps/source/python-2.7.3/Python-2.7.3/bin/python" "/PHShome/xd010/libexec/sortVcf.py" -f "/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/svHyGen/list.sortCandidateSV.txt" -a | "/PHShome/xd010/libexec/bgzip" -c > "/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/results/variants/candidateSV.vcf.gz"'
+p3
+sS'errFile'
+p4
+S'/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/pyflow.data/logs/pyflow_tasks_stderr_log.txt'
+p5
+sS'outFile'
+p6
+S'/data/neurogen/pipeline/DNAseq/libs/MantaDemoAnalysis/workspace/pyflow.data/logs/pyflow_tasks_stdout_log.txt'
+p7
+sS'env'
+p8
+NsS'nCores'
+p9
+I1
+sS'cwd'
+p10
+S''
+p11
+s.

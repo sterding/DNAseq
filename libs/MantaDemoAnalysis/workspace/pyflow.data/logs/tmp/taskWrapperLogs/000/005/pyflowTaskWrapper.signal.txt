@@ -1,0 +1,4 @@
+[2018-05-15T14:57:05.040763Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:summarizeStats] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:05.058698Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:summarizeStats] [wrapperSignal] taskStart
+[2018-05-15T14:57:05.129370Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:summarizeStats] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:05.131444Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:summarizeStats] [wrapperSignal] taskElapsedSec 0

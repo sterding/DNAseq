@@ -1,0 +1,4 @@
+[2018-05-15T14:57:05.848577Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] wrapperStart
+[2018-05-15T14:57:05.872220Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] taskStart
+[2018-05-15T14:57:05.955648Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] taskExitCode 0
+[2018-05-15T14:57:05.957276Z] [eris1n2.research.partners.org] [50334_1] [pyflowTaskWrapper:mergeLocusGraph] [wrapperSignal] taskElapsedSec 0
